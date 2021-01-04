@@ -1,93 +1,91 @@
-- id: read_more
-  # translation: Read More
+- id: continiue_reading
+  # translation: Relecture Continiue
   translation: और पढ़ें
 
 - id: search_placeholder
-  translation: Type & Hit Enter...
+  # translation: Tapez et appuyez sur Entrée ...
+  translation: सर्च करें
 
 - id: recent_post
-  translation: Recent Post
+  translation: नवीनतम पोस्ट
 
 - id: authors
-  translation: Authors
+  translation: लेखक  
 
 - id: tags
-  translation: Tags
+  translation: टैग्स 
 
 - id: categories
-  translation: Categories
+  translation: कैटिगरीज
 
 - id: search
-  translation: Search
+  translation: सर्च
 
 - id: date
-  translation: Date
+  translation: तिथि
 
 - id: send
-  translation: Send Now
+  translation: send
 
 - id: name
-  translation: Your Name
+  translation: नाम 
 
 - id: email 
-  translation: Your Email Address
+  translation: ईमेल 
 
 - id: subject
-  translation: Reason For Contact
+  translation: सब्जेक्ट 
 
 - id: message
-  translation: Your Message Here
+  translation: मैसेज 
 
 - id: subscribe
-  translation: Subscribe now
+  translation: सब्सक्राइब 
 
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: न्यूज़लेटर सब्सक्राइब करें   
 
 - id: social
-  translation: Social Links
-
+  translation: सोशल 
+  
 - id: minute_read
-  translation: Min To Read
+  translation: मिनट में पढ़ें 
 
 - id: posts_by
-  translation: Posts by this author
+  translation: posts by
 
 - id: showing_from
-  translation: Showing items from
+  translation: showing from
 
 - id: search_for
-  translation: Search results for
+  translation: सर्च करें
 
 - id: instagram_post
-  translation: Instagram Post
+  translation: इंस्ट्राग्राम पोस्ट
 
 - id: editors_pick
-  translation: Editors Pick
+  translation: संपादक की पसंद
 
 - id: trending_post
-  translation: Trending Post
+  translation: ट्रेंडिंग पोस्ट
 
 - id: popular_post
-  translation: Popular Post
+  translation: लोकप्रिय पोस्ट
 
 - id: about_me
-  translation: About me
+  translation: लेखक के बारे में  
 
 - id: subscribe_newsletter
-  translation: Never Miss A News
+  translation: न्यूज़लेटर सब्सक्राइब करें 
 
 - id: back_to_home
-  translation: Back To Home
-
-- id: subject
-  translation: Reason For Contact
+  translation: होमपेज वापस जाएं 
 
 - id: visit_channel
-  translation: Visit Channel
+  translation: चैनल विजिट करें 
 
 - id: home
-  translation: Home
+  translation: होमपेज
 
 - id: our_authors
-  translation: Our Authors
+  translation: हमारे लेखक 
