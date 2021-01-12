@@ -2,12 +2,12 @@
 title: "About Me"
 image : "images/about-me.jpg"
 # description
-description: "This is meta description"
+description: "Author description"
 draft: false
 
 # education
 education:
-  enable : true
+  enable : false
   title : "Educational Qualification <br> That I Have Gathered"
   degree:
   - name : "BEng Electronic Engineering"
@@ -28,14 +28,14 @@ education:
 
 # mission
 mission:
-  enable : true
+  enable : false
   title : "What is the main mission of mine and what i wanna do?"
   image : "images/mission.png"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
 
 # Youtube
 youtube:
-  enable : true
+  enable : false
   title : "Don’t forget to subscribe my Youtube channel “Richi Andorn”"
   image : "images/youtube.png"
   video_id: "dyZcRRWiuuw"
@@ -43,7 +43,7 @@ youtube:
 
 # partners
 partners:
-  enable : true
+  enable : false
   title : "My Contents also published <br> on these websites"
   logos:
     - "images/logos/logo-1.png"
@@ -57,6 +57,6 @@ partners:
     - "images/logos/logo-9.png"
 ---
 
-## Helllo I’m Richi Andorn I’m a Biography Based researcher And Author 
+## नमस्ते, में चंद्र प्रकाश शर्मा!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Velit massa vitae felis augue. In venenatis scelerisque accumsan egestas mattis. Massa feugiat in sem pellentesque.
+यद्पि में कोई चिकित्सक नहीं, पर ये मेरा छोटा सा प्रयास है मेरे द्वारा  जीवन भर एकत्रित किये गए ज़्यान को आपसे साँझा करने का |

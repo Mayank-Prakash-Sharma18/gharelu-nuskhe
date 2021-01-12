@@ -1,8 +1,8 @@
 ---
-title: "Charls Xaviar"
+title: "मृगांक शांडिल्य"
 image: ""
 email: "mehedishariftitas@gmail.com"
-description: "Author & developer of Bexer, Biztrox theme"
+description: "हेल्थ केयर लेखक"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"
@@ -14,4 +14,4 @@ social:
     link : "#"
 ---
 
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+मृगांक शांडिल्य एक अनुभवी हेल्थ केयर लेखक हैं , जिनका इस छेत्र में पाँच साल से भी अधिक का अनुभव है | 

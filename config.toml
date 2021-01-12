@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://demo.themefisher.com/reader-hugo/"
-title = "Reader | Hugo Personal Blog Template"
+baseURL = "http://gharelu-nuskhe/"
+title = "Gharelu Nuskhe | Herbal and Natural Health Tips"
 theme = "reader"
 # post pagination
 paginate = "6"
@@ -60,8 +60,8 @@ logo = "images/logo.png"
 logo_width = "100px"
 menu_align = "center" # available option (left, right, or center )
 # Meta data
-author = "Themefisher"
-description = "This is meta description"
+author = "Gharelu Nushkhe"
+description = "Home remedies - gharelu upay"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Go to https://formspree.io, and create an account by click on signup button. Now verify your email address by click on varify button in the mail you got in your inbox. form action will looks like this contact_form_action = "https://formspree.io/your.name@email.com/" 
@@ -84,23 +84,23 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 # Instagram feed
 [params.instafeed]
-enable = true
+enable = false
 access_token = "" # place your instagram access token here
 
 # promotion
-[params.promotion]
-title = "Create Stunning Website!!"
-content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare turpis posuere."
-image = "images/promotion.jpg"
-button_label = "Get Started"
-button_link = "https://themefisher.com/"
+# [params.promotion]
+# title = "Create Stunning Website!!"
+# content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare turpis posuere."
+# image = "images/promotion.jpg"
+# button_label = "Get Started"
+# button_link = "https://themefisher.com/"
 
 ######################## sidebar widgets #########################
 [params.widgets]
@@ -144,9 +144,9 @@ weight = 1
 heading = "आज आप क्या <br> पढ़ना पसंद करेंगे ?"
 
 [Languages.hi.about_me]
-title = "Hi, I am Alex!"
+title = "नमस्ते, में चंद्र प्रकाश शर्मा!"
 image = "images/author.jpg"
-bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel in in donec iaculis tempus odio nunc laoreet . Libero ullamcorper."
+bio = "यद्पि में कोई चिकित्सक नहीं, पर ये मेरा छोटा सा प्रयास है मेरे द्वारा  जीवन भर एकत्रित किये गए ज़्यान को आपसे साँझा करने का |"
 
 ############# english navigation ##############
 
@@ -178,14 +178,33 @@ bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel in in donec 
 
 # Dropdown menu
 [[Languages.hi.menu.main]]
-name = "Category"
-url = "categories/"
-weight = 4
+name = "Home remedies"
+url = "categories/home-remedies/"
+weight = 2
 
 [[Languages.hi.menu.main]]
-name = "Tags"
-url = "tags/"
-weight = 3
+name = "बीमारियां"
+URL = "#"
+weight = 2
+hasChildren = true
+
+  [[Languages.hi.menu.main]]
+  parent = "बीमारियां"
+  name = "सर्दी"
+  url = "tags/सर्दी"
+  weight = 3
+
+  [[Languages.hi.menu.main]]
+  parent = "बीमारियां"
+  name = "कब्ज"
+  url = "tags/कब्ज"
+  weight = 6
+
+  [[Languages.hi.menu.main]]
+  parent = "बीमारियां"
+  name = "एनल-फिशर"
+  url = "tags/एनल-फिशर"
+  weight = 9
 
 [[Languages.hi.menu.main]]
 name = "Contact"
@@ -203,143 +222,7 @@ name = "Terms Conditions"
 URL = "terms-conditions"
 weight = 2
 
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-heading = "Qu'aimeriez-vous <br> lire aujourd'hui?"
-
-[Languages.fr.about_me]
-title = "Hi, I am Alex!"
-image = "images/author.jpg"
-bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel in in donec iaculis tempus odio nunc laoreet . Libero ullamcorper."
-
-############# french navigation ##############
-
-# Dropdown menu
-[[Languages.fr.menu.main]]
-weight = 1
-name = "homepage"
-hasChildren = true
-
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage Full Width"
-  url = "homepage/full/"
-  weight = 1
-
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage Full With Left Sidebar"
-  url = "homepage/full-left/"
-  weight = 2
-
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage Full With Right Sidebar"
-  url = "homepage/full-right/"
-  weight = 3
-  
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage List Style"
-  url = "homepage/list/"
-  weight = 4
-
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage List With Left Sidebar"
-  url = "homepage/list-left/"
-  weight = 5
-
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage List With Right Sidebar"
-  url = "homepage/list-right/"
-  weight = 6
-  
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage Grid Style"
-  url = "homepage/grid/"
-  weight = 7
-
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage Grid With Left Sidebar"
-  url = "homepage/grid-left/"
-  weight = 8
-
-  [[Languages.fr.menu.main]]
-  parent = "homepage"
-  name = "Homepage Grid With Right Sidebar"
-  url = "homepage/grid-right/"
-  weight = 9
-
-
-[[Languages.fr.menu.main]]
-name = "About"
-URL = "#"
-weight = 2
-  
-  [[Languages.fr.menu.main]]
-  parent = "About"
-  name = "About Me"
-  url = "about-me"
-  weight = 1
-
-  [[Languages.fr.menu.main]]
-  parent = "About"
-  name = "About Us"
-  url = "about-us"
-  weight = 2
-
-[[Languages.fr.menu.main]]
-name = "Contact"
-URL = "contact"
+[[Languages.hi.menu.footer]]
+name = "Disclaimer"
+URL = "disclaimer"
 weight = 3
-
-# Dropdown menu
-[[Languages.fr.menu.main]]
-weight = 4
-name = "Pages"
-hasChildren = true
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Author"
-  url = "author"
-  weight = 1
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Category"
-  url = "categories/creativity"
-  weight = 2
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Tags"
-  url = "tags/food"
-  weight = 3
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "404 Page"
-  url = "404"
-  weight = 4
-
-
-# footer menu
-[[Languages.fr.menu.footer]]
-name = "Privacy Policy"
-URL = "privacy-policy"
-weight = 1
-
-[[Languages.fr.menu.footer]]
-name = "Terms Conditions"
-URL = "terms-conditions"
-weight = 2
