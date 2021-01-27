@@ -1,7 +1,7 @@
 ---
-title: "मृगांक शांडिल्य"
+title: "चंद्र प्रकाश शर्मा"
 image: ""
-email: "paushtic.green@gmail.com"
+email: "chandra.sharma1803@gmail.com"
 description: "हेल्थ केयर लेखक"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
@@ -14,4 +14,4 @@ social:
     link : "#"
 ---
 
-मृगांक शांडिल्य एक अनुभवी हेल्थ केयर लेखक हैं , जिनका इस छेत्र में पाँच साल से भी अधिक का अनुभव है | 
+यद्पि में कोई चिकित्सक नहीं, पर ये मेरा छोटा सा प्रयास है मेरे द्वारा  जीवन भर एकत्रित किये गए ज़्यान को आपसे साँझा करने का |
