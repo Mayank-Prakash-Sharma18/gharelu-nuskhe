@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://gharelu-nuskhe/"
+baseURL = "https://gharelu-nuskhe.com/"
 title = "Gharelu Nuskhe | Herbal and Natural Health Tips"
 theme = "reader"
 # post pagination
