@@ -178,14 +178,19 @@ bio = "यद्पि में कोई चिकित्सक नहीं
 
 # Dropdown menu
 [[Languages.hi.menu.main]]
-name = "Home remedies"
+name = "घरेलु उपाय"
 url = "categories/home-remedies/"
-weight = 2
+weight = 3
+
+[[Languages.hi.menu.main]]
+name = "फल"
+url = "categories/fruits/"
+weight = 6
 
 [[Languages.hi.menu.main]]
 name = "बीमारियां"
 URL = "#"
-weight = 2
+weight = 9
 hasChildren = true
 
   [[Languages.hi.menu.main]]
@@ -209,7 +214,7 @@ hasChildren = true
 [[Languages.hi.menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 5
+weight = 12
 
 # footer menu
 [[Languages.hi.menu.footer]]
