@@ -9,8 +9,8 @@ author: "Chandra Prakash Sharma"
 # description
 description: "इस लेख में हम आम सर्दी के लिए कुछ अच्छे घरेलू उपचारों के बारे में बात करेंगे। ये उपाय आपकी सर्दी के अवधि को छोटा करने में आपकी मदद कर सकते हैं।"
 # Taxonomies
-categories: ["cold","home-remedies"]
-tags: ["सर्दी","घरेलु-उपाय","हर्बल"]
+categories: ["home-remedies", "diseases"]
+tags: ["सर्दी","घरेलु-उपाय","हर्बल", "cold"]
 type: "popular" # available type (epic, trending, popular, or regular)
 draft: false
 ---

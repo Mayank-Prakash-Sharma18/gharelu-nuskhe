@@ -9,8 +9,8 @@ author: "Chandra Prakash Sharma"
 # description
 description: "भारत में चार से पांच करोड़ लोग पाइल्स और फिशर से पीड़ित हैं। अक्सर लोग चिकित्सकीय ज्ञान की कमी के कारण भ्रमित हो जाते हैं। इस लेख में हम गुदा विदर (एनल फिशर) के कुछ प्राकृतिक उपचारों के बारे में जानेंगे।"
 # Taxonomies
-categories: ["anal-fissure","home-remedies"]
-tags: ["एनल-फिशर","घरेलु-उपाय","प्राकृतिक"]
+categories: ["home-remedies", "diseases"]
+tags: ["एनल-फिशर","घरेलु-उपाय","प्राकृतिक","anal-fissure"]
 type: "trending" # available type (epic, trending, popular, or regular)
 draft: false
 ---

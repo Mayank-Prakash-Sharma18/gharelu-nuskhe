@@ -9,8 +9,8 @@ author: "Chandra Prakash Sharma"
 # description
 description: "कब्ज बहुत आम है और सभी उम्र के लोगों को प्रभावित करता है। इस लेख में हम जानेंगे कि दवा के बिना कब्ज से कैसे छुटकारा पाया जा सकता है और  प्राकृतिक तथा हर्बल तरीकों का उपयोग करके इसे होने से ही कैसे रोका जाए।"
 # Taxonomies
-categories: ["constipation","home-remedies"]
-tags: ["कब्ज","घरेलु-उपाय","हर्बल"]
+categories: ["home-remedies", "diseases"]
+tags: ["कब्ज","घरेलु-उपाय","हर्बल","constipation"]
 type: "epic" # available type (epic, trending, popular, or regular)
 draft: false
 ---

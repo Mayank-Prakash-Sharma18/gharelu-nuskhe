@@ -188,46 +188,51 @@ url = "categories/fruits/"
 weight = 6
 
 [[Languages.hi.menu.main]]
+name = "जड़ी-बूटियाँ"
+url = "categories/herbs/"
+weight = 9
+
+[[Languages.hi.menu.main]]
 name = "बीमारियां"
 URL = "#"
-weight = 9
+weight = 12
 hasChildren = true
 
   [[Languages.hi.menu.main]]
   parent = "बीमारियां"
   name = "सर्दी"
-  url = "tags/सर्दी"
+  url = "tags/सर्दी/"
   weight = 3
 
   [[Languages.hi.menu.main]]
   parent = "बीमारियां"
   name = "कब्ज"
-  url = "tags/कब्ज"
+  url = "tags/कब्ज/"
   weight = 6
 
   [[Languages.hi.menu.main]]
   parent = "बीमारियां"
   name = "एनल-फिशर"
-  url = "tags/एनल-फिशर"
+  url = "tags/एनल-फिशर/"
   weight = 9
 
 [[Languages.hi.menu.main]]
 name = "Contact"
-URL = "contact"
-weight = 12
+URL = "contact/"
+weight = 18
 
 # footer menu
 [[Languages.hi.menu.footer]]
 name = "Privacy Policy"
-URL = "privacy-policy"
+URL = "privacy-policy/"
 weight = 1
 
 [[Languages.hi.menu.footer]]
 name = "Terms Conditions"
-URL = "terms-conditions"
+URL = "terms-conditions/"
 weight = 2
 
 [[Languages.hi.menu.footer]]
 name = "Disclaimer"
-URL = "disclaimer"
+URL = "disclaimer/"
 weight = 3
