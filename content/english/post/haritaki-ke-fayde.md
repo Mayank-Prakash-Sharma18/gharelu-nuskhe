@@ -23,7 +23,7 @@ draft: false
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
-<b>Table of Contents</b>
+<b>Table of Contents (in Hindi)</b>
 <ul>
 <li>हरीतकी के फायदे</li>
 <li>हरीतकी का सेवन कैसे करें?</li>

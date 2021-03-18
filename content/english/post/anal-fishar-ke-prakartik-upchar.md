@@ -21,7 +21,7 @@ draft: false
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
-<b>Table of Contents</b>
+<b>Table of Contents (in Hindi)</b>
 <ul>
 <li>एनल फिशर क्या होता है ?</li>
 <li>एनल फिशर के घरेलु उपाय</li>

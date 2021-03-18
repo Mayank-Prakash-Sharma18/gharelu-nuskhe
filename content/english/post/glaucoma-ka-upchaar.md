@@ -29,7 +29,7 @@ draft: false
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
-<b>Table of Contents</b>
+<b>Table of Contents (in Hindi)</b>
 <ul>
 <li>ग्लूकोमा (कांचबिंद) क्या है ?</li>
 <li>ग्लूकोमा के लक्षण और पहचान</li>

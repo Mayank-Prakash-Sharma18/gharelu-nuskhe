@@ -29,7 +29,7 @@ draft: false
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
-<b>Table of Contents</b>
+<b>Table of Contents (in Hindi)</b>
 <ul>
 <li>पुदीना (पेपरमिंट)</li>
 <li>कैलेंडुला (गेंदा)</li>

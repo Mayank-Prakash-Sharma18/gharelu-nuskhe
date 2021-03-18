@@ -21,7 +21,7 @@ draft: false
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
-<b>Table of Contents</b>
+<b>Table of Contents (in Hindi)</b>
 <ul>
 <li>हर्निया क्या होता है ?</li>
 <li>हर्निया के प्रकार</li>

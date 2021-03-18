@@ -25,7 +25,7 @@ draft: false
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
-<b>Table of Contents</b>
+<b>Table of Contents (in Hindi)</b>
 <ul>
 <li>बेल फल के स्वास्थ्य लाभ</li>
 <li>कुछ सावधानियां: बेल पत्थर के दुष्प्रभाव</li>

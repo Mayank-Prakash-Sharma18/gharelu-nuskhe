@@ -21,7 +21,7 @@ draft: false
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
-<b>Table of Contents</b>
+<b>Table of Contents (in Hindi)</b>
 <ul>
 <li>कब्ज क्या होता है?</li>
 <li>अपना पेट साफ़ करने के टिप्स</li>
