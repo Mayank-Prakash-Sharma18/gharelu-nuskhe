@@ -194,27 +194,27 @@ weight = 9
 
 [[Languages.hi.menu.main]]
 name = "बीमारियां"
-URL = "#"
+URL = "categories/diseases/"
 weight = 12
-hasChildren = true
+# hasChildren = true
 
-  [[Languages.hi.menu.main]]
-  parent = "बीमारियां"
-  name = "सर्दी"
-  url = "tags/सर्दी/"
-  weight = 3
+#   [[Languages.hi.menu.main]]
+#   parent = "बीमारियां"
+#   name = "सर्दी"
+#   url = "tags/सर्दी/"
+#   weight = 3
 
-  [[Languages.hi.menu.main]]
-  parent = "बीमारियां"
-  name = "कब्ज"
-  url = "tags/कब्ज/"
-  weight = 6
+#   [[Languages.hi.menu.main]]
+#   parent = "बीमारियां"
+#   name = "कब्ज"
+#   url = "tags/कब्ज/"
+#   weight = 6
 
-  [[Languages.hi.menu.main]]
-  parent = "बीमारियां"
-  name = "एनल-फिशर"
-  url = "tags/एनल-फिशर/"
-  weight = 9
+#   [[Languages.hi.menu.main]]
+#   parent = "बीमारियां"
+#   name = "एनल-फिशर"
+#   url = "tags/एनल-फिशर/"
+#   weight = 9
 
 [[Languages.hi.menu.main]]
 name = "Contact"
