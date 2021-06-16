@@ -19,7 +19,7 @@ draft: false
 
 प्राणायाम राजयोग का बहुत महत्वपूर्ण हिस्सा है| साथ ही, ‘प्राणायाम‘ जिस प्रकार राजयोग में आवश्यक है उसी प्रकार हठयोग में भी। 
 
-(इस लेख में हम जानेंगे - <strong>types of Pranayam, in Hindi</strong>)
+(इस लेख में हम जानेंगे - <strong>Types of Pranayam, in Hindi</strong>)
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
