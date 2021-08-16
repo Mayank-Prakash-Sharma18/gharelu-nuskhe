@@ -183,19 +183,57 @@ url = "categories/home-remedies/"
 weight = 3
 
 [[Languages.hi.menu.main]]
-name = "फल"
-url = "categories/fruits/"
+name = "पौष्टिक खान-पान"
+URL = "#"
 weight = 6
+hasChildren = true
+
+   [[Languages.hi.menu.main]]
+   parent = "पौष्टिक खान-पान"
+   name = "स्वास्थ्यवर्धक भोजन"
+   url = "categories/food-tips/"
+   weight = 7
+
+   [[Languages.hi.menu.main]]
+   parent = "पौष्टिक खान-पान"
+   name = "फल"
+   url = "categories/fruits/"
+   weight = 8
+
+   [[Languages.hi.menu.main]]
+   parent = "पौष्टिक खान-पान"
+   name = "जड़ी-बूटियाँ"
+   url = "categories/herbs/"
+   weight = 9
+
+   [[Languages.hi.menu.main]]
+   parent = "पौष्टिक खान-पान"
+   name = "विटामिन और खनिज"
+   url = "categories/vitamins-and-minerals/"
+   weight = 10
 
 [[Languages.hi.menu.main]]
-name = "जड़ी-बूटियाँ"
-url = "categories/herbs/"
-weight = 9
+name = "स्वस्थ जीवनशैली"
+URL = "#"
+weight = 12
+hasChildren = true
+
+   [[Languages.hi.menu.main]]
+   parent = "स्वस्थ जीवनशैली"
+   name = "वैलनेस"
+   url = "categories/wellness/"
+   weight = 13
+
+   [[Languages.hi.menu.main]]
+   parent = "स्वस्थ जीवनशैली"
+   name = "योग"
+   url = "categories/yog/"
+   weight = 14
 
 [[Languages.hi.menu.main]]
 name = "बीमारियां"
 URL = "categories/diseases/"
-weight = 12
+weight = 15
 # hasChildren = true
 
 #   [[Languages.hi.menu.main]]

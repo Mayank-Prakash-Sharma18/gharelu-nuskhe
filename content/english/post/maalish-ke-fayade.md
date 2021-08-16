@@ -9,8 +9,8 @@ author: "Mragank Shandilya"
 # description
 description: ""
 # Taxonomies
-categories: ["home-remedies", "diseases"]
-tags: ["घरेलु-उपाय","नस-का-दर्द"]
+categories: ["wellness"]
+tags: ["मालिश"]
 type: "trending" # available type (epic, trending, popular, or regular)
 draft: false
 ---

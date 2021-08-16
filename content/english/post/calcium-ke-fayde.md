@@ -9,7 +9,7 @@ author: "Chandra Prakash Sharma"
 # description
 description: ""
 # Taxonomies
-categories: ["minerals"]
+categories: ["vitamins-and-minerals"]
 tags: ["कैल्शियम"]
 type: "popular" # available type (epic, trending, popular, or regular)
 draft: false

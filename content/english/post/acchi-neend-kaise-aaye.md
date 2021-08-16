@@ -9,7 +9,7 @@ author: "Mragank Shandilya"
 # description
 description: ""
 # Taxonomies
-categories: ["home-remedies", "diseases"]
+categories: ["home-remedies", "wellness"]
 tags: ["नींद"]
 type: "epic" # available type (epic, trending, popular, or regular)
 draft: false
