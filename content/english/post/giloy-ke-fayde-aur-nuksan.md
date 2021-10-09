@@ -1,5 +1,5 @@
 ---
-title: "गिलोय के फायदे और नुकसान (giloy ke fayde aur nuksan in hindi)"
+title: "गिलोय के फायदे और नुकसान (Giloy ke fayde aur nuksan in hindi)"
 date: 2021-06-23T15:40:24+06:00
 # post thumb
 images:
